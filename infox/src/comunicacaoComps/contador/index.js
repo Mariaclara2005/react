@@ -7,7 +7,7 @@ export default function Pai () {
     function contar () {
         setQtd (qtd+1);
     }
-    fuction reset () {
+    function reset () {
         setQtd (0);
     }
 
@@ -25,7 +25,7 @@ export default function Pai () {
 }
 
 function Filho (props) {
-    fuction resetar () {
+    function resetar() {
         props.onReset ();
     } 
 
