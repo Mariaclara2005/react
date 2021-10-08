@@ -6,7 +6,7 @@ import { Container } from './styled'
 
 
 export default function DetalheProduto(props) {
-  const [produto, setProduto] = useState(props.location.state);  
+  const [produto] = useState(props.location.state);  
   const navigation = useHistory();
   
 

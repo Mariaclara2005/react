@@ -6,6 +6,8 @@ import { Container } from './styled'
 
 
 export default function Produto(props) {
+
+  
   return (
     <Container>
       <img className="capa" src={props.info.imagem} alt="" />

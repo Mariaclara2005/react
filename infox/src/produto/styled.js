@@ -32,7 +32,7 @@ const Container = styled.div`
     outline: none;
     padding: .5em 1.5em;
     
-    font: 400 1em Roboto;
+    font-weight: 400 1em Roboto;
     background-color: #f837b2;
     color: #fff;
     cursor: pointer;

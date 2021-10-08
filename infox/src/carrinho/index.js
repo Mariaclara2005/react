@@ -3,7 +3,7 @@ import { Container } from './styled'
 import { useEffect, useState } from "react"
 
 import Cookie from 'js-cookie'
-import CarrinhoItem from './carrinhoItem'
+import CarrinhoItem from './carrinhoitem'
 
 
 
