@@ -1,0 +1,5 @@
+const CarouselConfig = {
+    superLargueDesktop: {
+        breackpoint
+    }
+}
